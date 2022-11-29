@@ -1,0 +1,10 @@
+<h1>Hello {{connId}}</h1>
+<app-menu></app-menu>
+<div class="boards">
+   <h2>Attack here</h2>
+   <h2>My ships</h2>
+</div>
+<div class="boards">
+      <app-board [boardState]="(boardLeft$ | async)"></app-board>
+      <app-board [boardState]="(boardRight$ | async)"></app-board>
+</div>
