@@ -1,0 +1,27 @@
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\appsettings.Development.json
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\appsettings.json
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\TAPP_SignalR Server.exe
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\TAPP_SignalR Server.deps.json
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\TAPP_SignalR Server.runtimeconfig.json
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\TAPP_SignalR Server.dll
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\TAPP_SignalR Server.pdb
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.csproj.AssemblyReference.cache
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.AssemblyInfoInputs.cache
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.AssemblyInfo.cs
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.csproj.CoreCompileInputs.cache
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.MvcApplicationPartsAssemblyInfo.cs
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.MvcApplicationPartsAssemblyInfo.cache
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\staticwebassets.build.json
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\staticwebassets.development.json
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\scopedcss\bundle\TAPP_SignalR Server.styles.css
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.csproj.CopyComplete
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.dll
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\refint\TAPP_SignalR Server.dll
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.pdb
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\TAPP_SignalR Server.genruntimeconfig.cache
+H:\bak\1-3-22\sheru\uni\programming\TAPP SignalR\SignalR Server\obj\Debug\net6.0\ref\TAPP_SignalR Server.dll

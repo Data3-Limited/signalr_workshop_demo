@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+   background-color: #b6d6cc;
+   color: #f1fec6;
+}
+
+h1 {
+   color: #29339b;
+}
+
+h2 {
+   color: #4e59d0;
+}
+
+.boards {
+   display: grid;
+   grid-template-columns: repeat(3,33%);
+   align-items: start;
+}

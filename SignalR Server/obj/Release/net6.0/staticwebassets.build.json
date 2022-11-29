@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cN7QZPvCLBcvGrSQ9KLHZBruAyOY2WMcE5IOklChteM=",
+  "Source": "TAPP_SignalR Server",
+  "BasePath": "_content/TAPP_SignalR Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
