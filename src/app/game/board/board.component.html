@@ -1,0 +1,8 @@
+<div class="board-container mine">
+   <ng-container *ngFor="let item of [].constructor(Dimensions.width); let x = index">
+      <ng-container *ngFor="let item of [].constructor(Dimensions.height); let y = index">
+         <app-square [coord]="BuildCoord(x,y)" #square></app-square>
+      </ng-container>
+   </ng-container>
+</div>
+
